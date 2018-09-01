@@ -2,6 +2,6 @@ id=wifi-bonding
 name=Wifi Bonding (Qualcomm)
 version=1.8
 versionCode=9
-author=simonsmh 汉化：Coolapk@TayLin
+author=simonsmh 汉化：TayLin@Coolapk
 description=在「高通设备」上以40Mhz运行2.4Ghz/5.0Ghz的Wifi。
 minMagisk=1500
